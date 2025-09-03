@@ -1,0 +1,11 @@
+[
+  {
+    "id": "silla-nordica-01",
+    "nombre": "Silla Nórdica",
+    "precio": 59990,
+    "categoria": "sillas",
+    "material": "madera",
+    "img": "assets/img/productos/silla-nordica.jpg",
+    "descripcion": "Estructura de madera de haya, tapiz lino."
+  }
+]
